@@ -1,0 +1,5 @@
+admin 123
+manager123 password123
+root root12345
+superadmin superpassword
+systemadmin sysadmin2024
